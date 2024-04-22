@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Thakur</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavv81" alt="abhinavv81" /></a> </p>
+<h3 align="center">i am a coderrrrr</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavv81&label=Profile%20views&color=000000&style=flat" alt="abhinavv81" /> </p>
 
 - 🌱 I’m currently learning **React.js**
 
