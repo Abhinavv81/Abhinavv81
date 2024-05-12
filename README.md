@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abhinav Thakur</h1>
-<h3 align="center">i am a coderrrrr</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavv81&label=Profile%20views&color=000000&style=flat" alt="abhinavv81" /> </p>
 
