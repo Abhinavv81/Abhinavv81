@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning **Next.js**
-- 🔭 I’m currently working on Blog App 
+- 🔭 I’m currently working on **Blog App**
 - 👨‍💻 All of my projects are available at [https://github.com/Abhinavv81](https://github.com/Abhinavv81)
 
 <h3 align="left">Connect with me:</h3>
