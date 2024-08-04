@@ -34,13 +34,12 @@ height="40"/></a>
 <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Lightroom" height="40" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="40" /></a>
 <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Figma" height="40" /></a>
-
 </p>
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavv81&show_icons=true&locale=en&layout=compact" alt="abhinavv81" /></p>
-
+![abhinavv81's Stats](https://github-readme-stats.vercel.app/api?username=abhinavv81&theme=dark&show_icons=true&
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavv81&show_icons=true&theme=dark&hide_border=true&locale=en" alt="abhinavv81" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavv81&" alt="abhinavv81" /></p>
