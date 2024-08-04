@@ -38,8 +38,8 @@ height="40"/></a>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavv81&show_icons=true&locale=en&layout=compact" alt="abhinavv81" /></p>
-![abhinavv81's Stats](https://github-readme-stats.vercel.app/api?username=abhinavv81&theme=dark&show_icons=true&
+<h3 align="left"></h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhinavv81&theme=dark&show_icons=true&" alt="abhinavv81" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavv81&show_icons=true&theme=dark&hide_border=true&locale=en" alt="abhinavv81" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavv81&" alt="abhinavv81" /></p>
