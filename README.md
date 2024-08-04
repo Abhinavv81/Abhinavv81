@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Next.js**
 - 🔭 I’m currently working on **Blog App**
 - 👨‍💻 All of my projects are available at [https://github.com/Abhinavv81](https://github.com/Abhinavv81)
-https://res.cloudinary.com/duysea99p/image/upload/v1722762970/discord_mjjmjm.png
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhinav thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav thakur" height="30" width="40" /></a>
