@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Blog App**
 - 👨‍💻 All of my projects are available at [https://github.com/Abhinavv81](https://github.com/Abhinavv81)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhinav thakur" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav thakur" height="27" width="40" /></a>
 <a href="https://instagram.com/abhinavv_81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinavv_81" height="30" width="40" /></a>
@@ -16,7 +16,7 @@ height="40"/></a>
 
 
 
-<h2 align="left"><img align="center" src="https://res.cloudinary.com/duysea99p/image/upload/v1722766762/browser-svgrepo-com_1_t4mvm1.png" width="60" height="60"/>Tech Repository:</h2>
+<h2 align="left"><img align="center" src="https://res.cloudinary.com/duysea99p/image/upload/v1722766762/browser-svgrepo-com_1_t4mvm1.png" width="60" height="60"/> Tech Repository :</h2>
 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="40" height="40"/></a> 
@@ -37,8 +37,7 @@ height="40"/></a>
 </p>
 
 
-
-<h2 align="left">GitHub Stats:</h2>
+<h2 align="left">GitHub Stats :</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhinavv81&theme=dark&show_icons=true&" alt="abhinavv81" /></p>
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavv81&theme=dark&hide_border=false" alt="abhinavv81" /></p>
