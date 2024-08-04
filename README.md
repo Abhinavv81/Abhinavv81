@@ -22,8 +22,11 @@ height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TyprScript" width="40" height="40"/></a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="40" height="40"/></a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="Next" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Next" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="40" height="40"/></a>
+</p>
+<p align="left">
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"  alt="Vercel"  height="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavv81&show_icons=true&locale=en&layout=compact" alt="abhinavv81" /></p>
