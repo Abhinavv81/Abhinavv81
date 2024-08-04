@@ -16,7 +16,7 @@ height="40"/></a>
 
 
 
-<h4 align="left"><img align="center" src="https://res.cloudinary.com/duysea99p/image/upload/v1722766762/browser-svgrepo-com_1_t4mvm1.png" width="60" height="60"/> Tech Repository</h4>
+<h2 align="left"><img align="center" src="https://res.cloudinary.com/duysea99p/image/upload/v1722766762/browser-svgrepo-com_1_t4mvm1.png" width="60" height="60"/> Tech Repository</h2>
 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="40" height="40"/></a> 
@@ -38,7 +38,7 @@ height="40"/></a>
 
 
 
-<h6 align="left">GitHub Stats:</h6>
+<h2 align="left">GitHub Stats:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhinavv81&theme=dark&show_icons=true&" alt="abhinavv81" /></p>
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavv81&theme=dark&hide_border=false" alt="abhinavv81" /></p>
