@@ -33,6 +33,8 @@ height="40"/></a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="40" /></a>
 <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Lightroom" height="40" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="40" /></a>
+<a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Figma" height="40" /></a>
+
 </p>
 
 
