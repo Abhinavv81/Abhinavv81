@@ -38,7 +38,9 @@ height="40"/></a>
 
 
 <h2 align="left">GitHub Stats :</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhinavv81&theme=dark&show_icons=true&" alt="abhinavv81" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhinavv81&theme=dark&show_icons=true&" alt="abhinavv81" />
+</p>
 <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavv81&theme=dark&hide_border=false" alt="abhinavv81" />
 </p>
