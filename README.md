@@ -26,7 +26,8 @@ height="40"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="40" height="40"/></a>
 </p>
 <p align="left">
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="href="" target="_blank" rel="noreferrer"> <img src=""  alt="Vercel"  height="40" /></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+" alt="Vercel" height="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavv81&show_icons=true&locale=en&layout=compact" alt="abhinavv81" /></p>
