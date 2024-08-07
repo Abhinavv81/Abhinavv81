@@ -12,8 +12,8 @@
 
 # 📊 GitHub Stats:
 ![abhinavv81's Stats](https://github-readme-stats-3pht.vercel.app/api?username=abhinavv81&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![abhinavv81's Streak](https://github-readme-stats-five-iota-88.vercel.app/?user=abhinavv81&theme=dark&hide_border=false)  
-![abhinavv81's Top Languages](https://github-readme-stats-five-iota-88.vercel.app/api/top-langs/?username=abhinavv81&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![abhinavv81's Streak](https://github-readme-stats-3pht.vercel.app/?user=abhinavv81&theme=dark&hide_border=false)  
+![abhinavv81's Top Languages](https://github-readme-stats-3pht.vercel.app/api/top-langs/?username=abhinavv81&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
