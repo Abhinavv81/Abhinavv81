@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abhinav Thakur</h1>
+<h1 align="center">Hi 👋, I'm **Abhinav Thakur</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Ken <br>🌱 I’m currently learning Next Auth<br>👨‍💻 All of my projects are available at
+🔭 I’m currently working on **Ken** <br>🌱 I’m currently learning **Next Auth**<br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![abhinavv81's Stats](https://github-readme-stats-3pht.vercel.app/api?username=abhinavv81&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![abhinavv81's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavv81&theme=dark&hide)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark&hide&size_weight=1&count_weight=0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark&hide&size_weight=0.5&count_weight=0.5)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
