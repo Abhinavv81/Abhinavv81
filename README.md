@@ -12,9 +12,7 @@
 
 # 📊 GitHub Stats:
 ![abhinavv81's Stats](https://github-readme-stats-3pht.vercel.app/api?username=abhinavv81&theme=dark&show_icons=true&hide_border=false&count_private=true)
-<a align="left">
- ![abhinavv81's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavv81&theme=dark&hide)
-</a>
+![abhinavv81's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavv81&theme=dark&hide)
 ![abhinavv81's Top Languages](https://github-readme-stats-3pht.vercel.app/api/top-langs/?username=abhinavv81&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
